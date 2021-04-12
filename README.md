@@ -16,7 +16,7 @@
     Data Analysis and Algorithm Design (4.0)  
     Artificial Intelligence (4.0)
   + **English Proficiency:**  
-    TOEFL IBT 94
+    TOEFL IBT 99
 
 ## ACADEMIC EXPERIENCES
 
