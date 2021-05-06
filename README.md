@@ -20,10 +20,6 @@
 
 ## ACADEMIC EXPERIENCES
 
-+ **Summer internship at Huawei Hangzhou Research Institute** _July. 2019-August. 2020_
-  + Learn the LLVM architecture
-  + Update compiler dependent package versions and fix bugs
-  + Learn compiler basics and develop a new pass
 + **University-level Student Research Training Program** _May. 2019-June. 2020_  
   + Facial Makeup Transfer using traditional digital image processing method including dividing layers and weighting blending
   + Facial Makeup Transfer using Deep Generative Adversarial Network
